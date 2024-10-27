@@ -1,0 +1,13 @@
+.danger{
+  background: #ff000085;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  font-size: 14px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.ml-10{
+  margin-left: 10px;
+}
